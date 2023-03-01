@@ -7,6 +7,6 @@
 ~~~java
 publice class{
     public static void main(String arg0[]){
-        System.out.println("hello V2");
+        System.out.println("Bye bye V2");
     } 
 }
